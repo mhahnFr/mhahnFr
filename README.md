@@ -21,7 +21,7 @@
                         #                                                      
 </pre>
 # Welcome to my [GitHub profile](https://www.github.com/mhahnFr)!
-Currently I am studying at the [42 Heilbronn](https://www.github.com/42-Heilbronn). I started my journey of programming using the Java Programming language back when I was twelve years old. These days, at the [42 Heilbronn](https://www.github.com/42-Heilbronn), we are using C during the core curriculum.
+Currently I am studying at the [42 Heilbronn](https://www.github.com/42-Heilbronn). I started my journey of programming using the [Java Programming language](https://www.github.com/openjdk) back when I was twelve years old. These days, at the [42 Heilbronn](https://www.github.com/42-Heilbronn), we are using C during the core curriculum.
 
 ## Repository structure
 Repositories that belong to a specific project of the [42 Heilbronn](https://www.github.com/42-Heilbronn) are preceeded by ``42cursus``. Some other repositories are additional projects made for the [42 Heilbronn](https://www.github.com/42-Heilbronn), that is however always stated in the informations of such project.
