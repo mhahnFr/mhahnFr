@@ -1,4 +1,4 @@
-<pre>
+```
                 /####/  #################                                      
               /####/    #####/     ######                                      
             /####/      ###/       ######                                      
@@ -19,7 +19,7 @@
   |c| mhahn             #  #==#  #=   #  #    #==<   #=*   #  #  # \\ #  # \\ #
   '-'                   #  #  #  #==  #  #==  #==/   # \\  *==*  #  \\#  #  \\#
                         #                                                      
-</pre>
+```
 # Welcome to my [GitHub profile]!
 Currently I am studying at the [42 Heilbronn]. I started my journey of programming using the [Java Programming language] back when I was twelve years old. These days, at the [42 Heilbronn], we are using C during the core curriculum.
 
