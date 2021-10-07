@@ -29,7 +29,7 @@ Repositories that belong to a specific project of the [42 Heilbronn] are preceed
 ### Final notes
 More informations about the [42 Heilbronn] can be found on their website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
 
-You can contact me on [Slack] as well on [Discord]. My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
+You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
 
 
 
