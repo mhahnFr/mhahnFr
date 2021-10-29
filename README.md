@@ -28,7 +28,8 @@ education principles very successfully. One can learn coding from scratch, but
 also people with a coding background are welcomed.
 
 <details>
-<summary>## Story</summary>
+<summary>**Story**</summary>
+## Developer story
 I started my journey of programming back in 2012, when I was 12 years old. I
 started by reading a book about the [Java Programming Language]. After that, I
 wrote a few projects in order to learn more about the main principles of
