@@ -27,7 +27,8 @@ by everyone. This design, called ``peer learning``, challenges traditional
 education principles very successfully. One can learn coding from scratch, but
 also people with a coding background are welcomed.
 
-<details><summary>**Story**</summary><p>
+<details><summary><b>Story</b> <i>(Click to expand)</i></summary>
+
 ## Developer story
 I started my journey of programming back in 2012, when I was 12 years old. I
 started by reading a book about the [Java Programming Language]. After that, I
@@ -66,7 +67,8 @@ of 2021, I discovered the [42 School], and I decided to give the [42 Heilbronn]
 a try. After I have been selected after the [piscine], I became one of the
 first students to discover the freshly opened [42 Heilbronn]. The language used
 in their core [curriculum] is the C Programming language.
-</p></details>
+
+</details>
 
 ### Final notes
 Repositories that belong to projects of the [42 School] are preceeded by
