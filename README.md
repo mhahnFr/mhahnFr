@@ -64,9 +64,9 @@ was written in a quick and dirty way.
 
 In the second half of 2020, I started learning C++. But soon in the beginning
 of 2021, I discovered the [42 School], and I decided to give the [42 Heilbronn]
-a try. After I have been selected after the [piscine], I became one of the
-first students to discover the freshly opened [42 Heilbronn]. The language used
-in their core [curriculum] is the C Programming language.
+a try. Having been selected after the [piscine], I became one of the first
+students to discover the freshly opened [42 Heilbronn]. The language used in
+their core [curriculum] is the C Programming language.
 
 </details>
 
