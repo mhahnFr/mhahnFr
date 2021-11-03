@@ -50,9 +50,9 @@ backups of my projects, the [Project_Backupper]. Initially, it should simply
 copy registered files to a specific location. As I was working in a virtual
 machine, I had the problem that the guest was able to see the host's file
 system, but the host could not see the guest's file system. To be still able to
-copy the files, I added the possibility to use to instances of the application,
-one inside of the VM, one on the host machine. The two instances are
-communicating via the local network.
+copy the files, I added the possibility to use two instances of the
+application, one inside of the VM, one on the host machine. The two instances
+are communicating via the local network.
 
 In 2019, I remade the [iSongs-RadioText] project, showing my capabilities of
 coding in the [Java Programming language]. After finishing it, having made all
