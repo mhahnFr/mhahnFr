@@ -16,20 +16,28 @@
                ######                                                          
                ######   #                                                      
    _                    #  #  #  #==  #  #    #==\   #==,  *==*  #\\  #  #\\  #
-  |c| mhahn             #  #==#  #=   #  #    #==<   #=*   #  #  # \\ #  # \\ #
+  |c| mhahnFr           #  #==#  #=   #  #    #==<   #=*   #  #  # \\ #  # \\ #
   '-'                   #  #  #  #==  #  #==  #==/   # \\  *==*  #  \\#  #  \\#
                         #                                                      
 </pre>
 # Welcome to my [GitHub profile]!
-Currently I am studying at the [42 Heilbronn]. I started my journey of programming using the [Java Programming language] back when I was twelve years old. These days, at the [42 Heilbronn], we are using C during the core curriculum.
+Currently I am studying at the [42 Heilbronn]. I started my journey of
+programming using the [Java Programming language] back when I was twelve years
+old. These days, at the [42 Heilbronn], we are using C during the core
+curriculum.
 
 ## Repository structure
-Repositories that belong to a specific project of the [42 Heilbronn] are preceeded by ``42cursus``. Some other repositories are additional projects made for the [42 Heilbronn], that is however always stated in the informations of such project.
+Repositories that belong to a specific project of the [42 Heilbronn] are
+preceeded by ``42cursus``. Some other repositories are additional projects made
+for the [42 Heilbronn], that is however always stated in the informations of
+such project.
 
 ### Final notes
-More informations about the [42 Heilbronn] can be found on their website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
+More informations about the [42 Heilbronn] can be found on their website:
+[42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
 
-You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
+You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can
+be found [here](https://profile.intra.42.fr/users/mhahn).
 
 
 
