@@ -46,7 +46,7 @@ Wavefront format for the 3D data for my app, I wrote the [Object Converter] in
 automatically connect to my Android device, the [ADB Connector].
 
 After having done all these projects, I made in 2018 an application to make
-backups of my projects, the [Project_Backupper]. Initially, it should simply
+backups of my projects, the [Project Backupper]. Initially, it should simply
 copy registered files to a specific location. As I was working in a virtual
 machine, I had the problem that the guest was able to see the host's file
 system, but the host could not see the guest's file system. To be still able to
@@ -83,7 +83,7 @@ be found [here](https://profile.intra.42.fr/users/mhahn).
 [Shader IDE]: https://www.github.com/mhahnFr/ShaderIDE
 [Object Converter]: https://www.github.com/mhahnFr/Object_Converter
 [ADB Connector]: https://www.github.com/mhahnFr/ADB_Connector
-[Project_Backupper]: https://www.github.com/mhahnFr/Project_Backupper
+[Project Backupper]: https://www.github.com/mhahnFr/Project_Backupper
 [Swift Programming language]: https://www.github.com/apple/swift
 [ADB Connector Mac]: https://www.github.com/mhahnFr/ADB_Connector_Mac
 [piscine]: https://www.42heilbronn.de/learncoderepeat
