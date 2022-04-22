@@ -21,7 +21,7 @@
                         #                                                      
 </pre>
 # Welcome to my [GitHub profile]!
-<details><summary>Currently I am studying at the [42 Heilbronn]. <i>(Click for more informations)</i></summary>
+<details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click for more informations)</i></summary>
 
 ## [42 Heilbronn]
 The [42 Heilbronn] is a coding school with a completely new educational design.
@@ -30,7 +30,6 @@ There are no teachers, everyone is learning by everyone. This design, called
 successfully. One can learn coding from scratch, but also people with a coding
 background are welcomed.
 
-### Final notes
 Repositories that belong to projects of the [42 School] are preceeded by
 ``42cursus``. More informations about the [42 Heilbronn] can be found on their
 website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
@@ -86,6 +85,8 @@ programming languages are also used.
 
 Together with [nijakow], I am developing the *[four]* MUD.
 
+[four]: https://www.github.com/nijakow/four
+[nijakow]: https://www.github.com/nijakow
 [iSongs-RadioText]: https://www.github.com/mhahnFr/iSongs-RadioText
 [Rock-Paper-Scissors]: https://www.github.com/mhahnFr/RockPaperScissors
 [Shader IDE]: https://www.github.com/mhahnFr/ShaderIDE
