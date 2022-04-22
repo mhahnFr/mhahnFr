@@ -21,11 +21,24 @@
                         #                                                      
 </pre>
 # Welcome to my [GitHub profile]!
-Currently I am studying at the [42 Heilbronn]. This is a coding school with a
-completely new educational design. There are no teachers, everyone is learning
-by everyone. This design, called ``peer learning``, challenges traditional
-education principles very successfully. One can learn coding from scratch, but
-also people with a coding background are welcomed.
+<details><summary>Currently I am studying at the [42 Heilbronn]. <i>(Click for more informations)</i></summary>
+
+## [42 Heilbronn]
+The [42 Heilbronn] is a coding school with a completely new educational design.
+There are no teachers, everyone is learning by everyone. This design, called
+``peer learning``, challenges traditional education principles very
+successfully. One can learn coding from scratch, but also people with a coding
+background are welcomed.
+
+### Final notes
+Repositories that belong to projects of the [42 School] are preceeded by
+``42cursus``. More informations about the [42 Heilbronn] can be found on their
+website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
+
+You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can
+be found [here](https://profile.intra.42.fr/users/mhahn).
+
+</details>
 
 <details><summary><b>Story</b> <i>(Click to expand)</i></summary>
 
@@ -66,17 +79,12 @@ In the second half of 2020, I started learning C++. But soon in the beginning
 of 2021, I discovered the [42 School], and I decided to give the [42 Heilbronn]
 a try. Having been selected after the [piscine], I became one of the first
 students to discover the freshly opened [42 Heilbronn]. The language used in
-their core [curriculum] is the C Programming language.
+their core [curriculum] is the C Programming language. Later on, other
+programming languages are also used.
 
 </details>
 
-### Final notes
-Repositories that belong to projects of the [42 School] are preceeded by
-``42cursus``. More informations about the [42 Heilbronn] can be found on their
-website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
-
-You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can
-be found [here](https://profile.intra.42.fr/users/mhahn).
+Together with [nijakow], I am developing the *[four]* MUD.
 
 [iSongs-RadioText]: https://www.github.com/mhahnFr/iSongs-RadioText
 [Rock-Paper-Scissors]: https://www.github.com/mhahnFr/RockPaperScissors
