@@ -21,7 +21,10 @@
                         #                                                      
 </pre>
 # Hey there, I'm *mhahnFr*!
-As of now, I speak three languages: <p align="left"><a href="localhost" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
+As of now, I speak three languages:
+<p align="left"><a href="localhost" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming language" width="40" height="40"/></a>
+<p align="left"><a href="localhost" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Programming language" width="40" height="40"/></a>
+<p align="left"><a href="localhost" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
 
 <details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click for more informations)</i></summary>
 
