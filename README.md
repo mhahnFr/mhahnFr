@@ -26,7 +26,7 @@ As of now, I speak these languages:
 <a href="https://www.swift.org/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Programming language" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
 
-<details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click for more informations)</i></summary>
+<details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click to expand)</i></summary>
 
 ## [42 Heilbronn]
 The [42 Heilbronn] is a coding school with a completely new educational design.
