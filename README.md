@@ -28,14 +28,14 @@ As of now, I speak these **languages**:
 
 Among others, I use these **tools**:
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/> </a>
-<a href="https://developer.apple.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" alt="Apple's systems" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/> </a>
-<a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.github.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/></a>
+<a href="https://developer.apple.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" alt="Apple's systems" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.github.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 <details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click to expand)</i></summary>
 
