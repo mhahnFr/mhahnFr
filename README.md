@@ -1,4 +1,4 @@
-<pre>
+<pre style="line-height:125%">
                 /####/  #################                                      
               /####/    #####/     ######                                      
             /####/      ###/       ######                                      
@@ -20,6 +20,7 @@
   '-'                   #  #  #  #==  #  #==  #==/   # \\  *==*  #  \\#  #  \\#
                         #                                                      
 </pre>
+
 ## 👋 Hey there, I'm *mhahnFr*!
 As of now, I speak these **languages**:
 <p align="left"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming language" width="40" height="40"/></a>
