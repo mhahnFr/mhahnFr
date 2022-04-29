@@ -42,8 +42,6 @@ Among others, I use these **tools**:
 
 Currently I am studying at the **42 Heilbronn**.
 
-#### 42 Heilbronn
-
 The [42 Heilbronn] is a coding school with a completely new educational design.
 There are no teachers, everyone is learning by everyone. This design, called
 ``peer learning``, challenges traditional education principles very
@@ -58,7 +56,7 @@ I started my journey in the world of coding back when I was 12 years old using t
 I added another language to my portfolio, the [Swift Programming language]. At the [42 Heilbronn], I learned the
 C Programming language.
 
-Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/wip/story.md).
+Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/main/story.md).
 
 Together with [nijakow], I am developing the *[four]* MUD.
 
