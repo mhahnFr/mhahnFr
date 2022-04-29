@@ -26,6 +26,7 @@ As of now, I speak these **languages**:
 <p align="left"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming language" width="40" height="40"/></a>
 <a href="https://www.swift.org/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Programming language" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
+</p>
 
 Among others, I use these **tools**:
 <p align="left">
@@ -38,30 +39,26 @@ Among others, I use these **tools**:
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.github.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
-<details><summary>Currently I am studying at the <b>42 Heilbronn</b>. <i>(Click to expand)</i></summary>
 
-### [42 Heilbronn]
+Currently I am studying at the **42 Heilbronn**.
+
+#### 42 Heilbronn
+
 The [42 Heilbronn] is a coding school with a completely new educational design.
 There are no teachers, everyone is learning by everyone. This design, called
 ``peer learning``, challenges traditional education principles very
-successfully. One can learn coding from scratch, but also people with a coding
-background are welcomed.
-
-Repositories that belong to projects of the [42 School] are preceeded by
-``42cursus``. More informations about the [42 Heilbronn] can be found on their
-website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat)
-
-You can contact me on [Slack] as well as on [Discord]. My 42 intra profile can
-be found [here](https://profile.intra.42.fr/users/mhahn).
-
-</details>
+successfully. My repositories that belong to projects of the [42 School] are preceeded by
+``42cursus``.  
+More informations about the [42 Heilbronn] can be found on their
+website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat).
+My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
 
 #### Short story
 I started my journey in the world of coding back when I was 12 years old using the [Java Programming language]. Later on,
 I added another language to my portfolio, the [Swift Programming language]. At the [42 Heilbronn], I learned the
 C Programming language.
 
-Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/main/story.md).
+Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/wip/story.md).
 
 Together with [nijakow], I am developing the *[four]* MUD.
 
