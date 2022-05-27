@@ -62,19 +62,7 @@ Together with [nijakow], I am developing the *[four]* MUD.
 
 [four]: https://www.github.com/nijakow/four
 [nijakow]: https://www.github.com/nijakow
-[iSongs-RadioText]: https://www.github.com/mhahnFr/iSongs-RadioText
-[Rock-Paper-Scissors]: https://www.github.com/mhahnFr/RockPaperScissors
-[Shader IDE]: https://www.github.com/mhahnFr/ShaderIDE
-[Object Converter]: https://www.github.com/mhahnFr/Object_Converter
-[ADB Connector]: https://www.github.com/mhahnFr/ADB_Connector
-[Project Backupper]: https://www.github.com/mhahnFr/Project_Backupper
 [Swift Programming language]: https://www.github.com/apple/swift
-[ADB Connector Mac]: https://www.github.com/mhahnFr/ADB_Connector_Mac
-[piscine]: https://www.42heilbronn.de/learncoderepeat
-[curriculum]: https://www.42heilbronn.de/en/curriculum
 [42 School]: https://www.github.com/42-School
 [42 Heilbronn]: https://www.42heilbronn.de/learncoderepeat
-[GitHub Profile]: https://www.github.com/mhahnFr
 [Java Programming language]: https://www.github.com/openjdk
-[Slack]: https://42born2code.slack.com/team/U024Z2NSVK7
-[Discord]: https://www.discordapp.com/users/831935383997644870
