@@ -37,7 +37,7 @@ Among others, I use these **tools**:
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" alt="Bash" width="40" height="40"/></a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.github.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://www.github.com" target="_blank" title="GitHub"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/></a>
 </p>
 
 Currently I am studying at the **42 Heilbronn**.
