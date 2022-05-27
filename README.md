@@ -45,7 +45,7 @@ Currently I am studying at the **42 Heilbronn**.
 The [42 Heilbronn] is a coding school with a completely new educational design.
 There are no teachers, everyone is learning by everyone. This design, called
 ``peer learning``, challenges traditional education principles very
-successfully. My repositories that belong to projects of the [42 School] are preceeded by
+successfully. My repositories that belong to projects of the [42 Heilbronn] are preceeded by
 ``42cursus``.  
 More informations about the [42 Heilbronn] can be found on their
 website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat).
@@ -63,6 +63,5 @@ Together with [nijakow], I am developing the *[four]* MUD.
 [four]: https://www.github.com/nijakow/four
 [nijakow]: https://www.github.com/nijakow
 [Swift Programming language]: https://www.github.com/apple/swift
-[42 School]: https://www.github.com/42-School
 [42 Heilbronn]: https://www.42heilbronn.de/learncoderepeat
 [Java Programming language]: https://www.github.com/openjdk
