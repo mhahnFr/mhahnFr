@@ -23,9 +23,9 @@
 
 ## 👋 Hey there, I'm *mhahnFr*!
 As of now, I speak these **languages**:
-<p align="left"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming language" width="40" height="40"/></a>
-<a href="https://www.swift.org/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Programming language" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
+<p align="left"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming language" width="40" height="40"/></a>
+<a href="https://www.swift.org/about" target="_blank" title="Swift"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Programming language" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" title="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
 </p>
 
 Among others, I use these **tools**:
