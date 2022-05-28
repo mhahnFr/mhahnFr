@@ -40,7 +40,7 @@ quick and dirty way.
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++ Programming language" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C Programming language" width="40" height="40"/></a>
 In the second half of 2020, I started learning C++. But soon in the beginning of 2021, I discovered the
-<a href="https://www.github.com/42-School">42 School</a>, and I decided to give the
+<a href="https://www.github.com/42-Heilbronn">42 School</a>, and I decided to give the
 <a href="https://www.42heilbronn.de/learncoderepeat">42 Heilbronn</a> a try. Having been selected after the
 <a href="https://www.42heilbronn.de/learncoderepeat">piscine</a>, I became one of the first students to discover the
 newly opened <a href="https://www.42heilbronn.de/learncoderepeat">42 Heilbronn</a>. The language used in their core
