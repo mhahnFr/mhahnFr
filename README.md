@@ -31,8 +31,8 @@ As of now, I speak these **languages**:
 
 Among others, I use these **tools**:
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank" title="VIM"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a>
-<a href="https://developer.apple.com/xcode/" target="_blank" title="XCode"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank" title="Vim"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a>
+<a href="https://developer.apple.com/xcode/" target="_blank" title="Xcode"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ"> <img src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/></a>
 <a href="https://developer.apple.com" target="_blank" title="Apple"> <img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" alt="Apple's systems" width="40" height="40"/></a>
