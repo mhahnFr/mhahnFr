@@ -44,8 +44,10 @@ In the second half of 2020, I started learning C++. But soon in the beginning of
 <a href="https://www.42heilbronn.de/learncoderepeat">42 Heilbronn</a> a try. Having been selected after the
 <a href="https://www.42heilbronn.de/learncoderepeat">piscine</a>, I became one of the first students to discover the
 newly opened <a href="https://www.42heilbronn.de/learncoderepeat">42 Heilbronn</a>. The language used in their core
-<a href="https://www.42heilbronn.de/en/curriculum">curriculum</a> is the C Programming language. Later on, other
-programming languages are also used.
+<a href="https://www.42heilbronn.de/en/curriculum">curriculum</a> is the C Programming language. Later on, the C++ 
+Programming language and other languages are also used.</br>
+Here, I developed the <a href="https://www.github.com/nijakow/four">four</a> MUD together with <a href="https://www.github.com/nijakow">nijakow</a>.
+Later on, I wrote the <a href="https://www.github.com/mhahnFr/LeakSanitizer">LeakSanitizer</a>.
 </p>
 
 [iSongs-RadioText]: https://www.github.com/mhahnFr/iSongs-RadioText
