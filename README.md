@@ -49,14 +49,14 @@ Among others, I use these **tools**:
 <a href="https://www.jetbrains.com/clion/" target="_blank" title="JetBrains"> <img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
 </p>
 
-Currently I am studying at the **42 Heilbronn**.
+Currently, I am studying at the **42 Heilbronn**.
 
 The [42 Heilbronn] is a coding school with a completely new educational design.
 There are no teachers, everyone is learning by everyone. This design, called
 ``peer learning``, challenges traditional education principles very
-successfully. My repositories that belong to projects of the [42 Heilbronn] are preceeded by
+successfully. My repositories that belong to projects of the [42 Heilbronn] are preceded by
 ``42cursus``.  
-More informations about the [42 Heilbronn] can be found on their
+More information about the [42 Heilbronn] can be found on their
 website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat).
 My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
 
