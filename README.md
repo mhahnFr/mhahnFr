@@ -42,6 +42,7 @@ Among others, I use these **tools**:
 <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank" title="SSH"> <img src="https://github.com/devicons/devicon/raw/master/icons/ssh/ssh-original-wordmark.svg" style="background-color:white;" alt="SSH" width="40" height="40"/></a>
 <a href="https://gcc.gnu.org/" target="_blank" title="GCC"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" title="Markdown"> <img src="https://github.com/devicons/devicon/raw/master/icons/markdown/markdown-original.svg" style="background-color:white;" alt="Markdown" width="40" height="40"/></a>
+<a href="https://www.docker.com" target="_blank" title="Docker"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://git-scm.com" target="_blank" title="Git"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.github.com" target="_blank" title="GitHub"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" style="background-color:white;" alt="GitHub" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank" title="Android"> <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/></a>
