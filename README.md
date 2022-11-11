@@ -37,12 +37,12 @@ Among others, I use these **tools**:
 <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Light.svg" alt="IntelliJ" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://getfedora.org" target="_blank" title="Fedora"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Light.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a>
 <a href="https://gcc.gnu.org/" target="_blank" title="GCC"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" title="Markdown"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Light.svg" alt="Markdown" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" title="Markdown"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40"/></a>
 <a href="https://www.docker.com" target="_blank" title="Docker"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/></a>
 <a href="https://git-scm.com" target="_blank" title="Git"> <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.github.com" target="_blank" title="GitHub"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://www.github.com" target="_blank" title="GitHub"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank" title="Android"> <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/OpenGL" target="_blank" title="OpenGL"> <img src="https://github.com/devicons/devicon/raw/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/clion/" target="_blank" title="JetBrains"> <img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
