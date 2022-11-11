@@ -81,3 +81,7 @@ In **2012**, I started coding by reading a book about Java.
 [Project Backupper]: https://www.github.com/mhahnFr/Project_Backupper
 [Object Converter]: https://www.github.com/mhahnFr/Object_Converter
 [RockPaperScissors]: htps://www.github.com/mhahnFr/RockPaperScissors
+[MUD]: https://en.wikipedia.org/wiki/MUD
+[OpenGL ES]: https://en.wikipedia.org/wiki/OpenGL_ES
+[Android]: https://developer.android.com
+[Wavefront]: https://en.wikipedia.org/wiki/Wavefront_.obj_file
