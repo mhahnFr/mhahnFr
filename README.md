@@ -33,8 +33,8 @@ Among others, I use these **tools**:
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank" title="Vim"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" title="Xcode"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio" target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/clion/" target="_blank" title="CLion"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/ides/clion.png" alt="CLion" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" alt="IntelliJ" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://getfedora.org" target="_blank" title="Fedora"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/></a>
