@@ -34,10 +34,11 @@ Among others, I use these **tools**:
 <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank" title="Vim"> <img src="https://github.com/devicons/devicon/raw/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" title="Xcode"> <img src="https://github.com/devicons/devicon/raw/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Light.svg" alt="IntelliJ" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/clion/" target="_blank" title="CLion"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/raw/master/ides/clion.png" alt="CLion" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg" alt="IntelliJ" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://getfedora.org" target="_blank" title="Fedora"> <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg" alt="Bash" width="40" height="40"/></a>
 <a href="https://gcc.gnu.org/" target="_blank" title="GCC"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" title="Markdown"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40"/></a>
 <a href="https://www.docker.com" target="_blank" title="Docker"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/></a>
@@ -45,7 +46,6 @@ Among others, I use these **tools**:
 <a href="https://www.github.com" target="_blank" title="GitHub"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
 <a href="https://developer.android.com" target="_blank" title="Android"> <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/OpenGL" target="_blank" title="OpenGL"> <img src="https://github.com/devicons/devicon/raw/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank" title="JetBrains"> <img src="https://github.com/devicons/devicon/raw/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank" title="SSH"> <img src="https://github.com/devicons/devicon/raw/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="40" height="40"/></a>
 <a href="https://developer.apple.com" target="_blank" title="Apple"> <img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" alt="Apple's systems" width="40" height="40"/></a>
 </p>
