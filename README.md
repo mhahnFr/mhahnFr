@@ -52,12 +52,10 @@ Among others, I use these **tools**:
 
 Currently, I am studying at the **42 Heilbronn**.
 
-The [42 Heilbronn] is a coding school with a completely new educational design.
-There are no teachers, everyone is learning by everyone. This design, called
-``peer learning``, challenges traditional education principles very
-successfully. My repositories that belong to projects of the [42 Heilbronn] are preceded by
-``42cursus``.  
-More information about the [42 Heilbronn] can be found on their
+The [42 Heilbronn] is a coding school with a completely new educational design:
+Everyone is learning from everyone - without teachers. This **peer learning** principle
+challenges the traditional education system very successfully.  
+More information can be found on their
 website: [42heilbronn.de](https://www.42heilbronn.de/learncoderepeat).
 My 42 intra profile can be found [here](https://profile.intra.42.fr/users/mhahn).
 
@@ -68,7 +66,7 @@ C and the C++ Programming languages.
 
 Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/main/story.md).
 
-### Fun facts
+#### Fun facts
 <details><summary><b>How to break Swifts type checker</b> <i>(Click to expand)</i></summary>
 
 ```Swift
