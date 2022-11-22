@@ -21,7 +21,7 @@ automatically connect to my Android device, the <a href="https://www.github.com/
 After having done all these projects, I made in 2018 an application to make backups of my projects, the <a href="https://www.github.com/mhahnFr/Project_Backupper">Project Backupper</a>.
 Initially, it should simply copy registered files to a specific location. As I was working in a virtual machine, I had the
 problem that the guest was able to see the host's file system, but the host could not see the guest's file system. To be
-still able to copy the files, I added the possibility to use two instances of the application, one inside of the VM, one
+still able to copy the files, I added the possibility to use two instances of the application, one inside the VM, one
 on the host machine. The two instances are communicating via the local network.
 </p>
 
@@ -45,7 +45,7 @@ In the second half of 2020, I started learning C++. But soon in the beginning of
 <a href="https://www.42heilbronn.de/learncoderepeat">piscine</a>, I became one of the first students to discover the
 newly opened <a href="https://www.42heilbronn.de/learncoderepeat">42 Heilbronn</a>. The language used in their core
 <a href="https://www.42heilbronn.de/en/curriculum">curriculum</a> is the C Programming language. Later on, the C++ 
-Programming language and other languages are also used.</br>
+Programming language and other languages are also used.<br>
 Here, I developed the <a href="https://www.github.com/nijakow/four">four</a> MUD together with <a href="https://www.github.com/nijakow">nijakow</a>.
 Later on, I wrote the <a href="https://www.github.com/mhahnFr/LeakSanitizer">LeakSanitizer</a>.
 </p>

@@ -77,7 +77,7 @@ Before and meanwhile, I learned Swift and experimented with iOS.
 
 #### 2015 - 2016
 <a href="https://developer.android.com" target="_blank" title="Android"> <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/></a>
-Prior to that, I wrote my first <a href="https://developer.android.com">Android</a> app, the <a href="htps://www.github.com/mhahnFr/RockPaperScissors">RockPaperScissors</a> app.
+Prior to that, I wrote my first <a href="https://developer.android.com">Android</a> app, the <a href="https://www.github.com/mhahnFr/RockPaperScissors">RockPaperScissors</a> app.
 
 #### 2013 - 2015
 Before experimenting with [Android], I wrote a music application in Java, after reading a second book about Java.
