@@ -8,12 +8,11 @@ coding. After going through a second book, I wrote the [iSongs-RadioText] projec
 <a href="https://en.wikipedia.org/wiki/OpenGL" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40"/></a>
 In 2015, I jumped on the Android platform and wrote a few apps, including the
 <a href="https://www.github.com/mhahnFr/RockPaperScissors">Rock-Paper-Scissors</a> app. Later, in 2016, I started
-experimenting with OpenGL ES on Android. In addition to that project, I wrote the
-<a href="https://www.github.com/mhahnFr/ShaderIDE">Shader IDE</a> to improve the workflow with the GLSL shaders. As I
-used the Wavefront format for the 3D data for my app, I wrote the
+experimenting with OpenGL ES on Android. In addition to that project, I wrote a small Java application
+to improve the workflow with the GLSL shaders. As I used the Wavefront format for the 3D data for my app, I wrote the
 <a href="https://www.github.com/mhahnFr/Object_Converter">Object Converter</a> in 2017, which converts the Wavefront 3D
 data in my own file format, called <b>G</b>raphic<b>W</b>orld<b>O</b>bjects. Also in 2017, I wrote a small application to
-automatically connect to my Android device, the <a href="https://www.github.com/mhahnFr/ADB_Connector">ADB Connector</a>.
+automatically connect to my Android device, a Java version of the <a href="https://www.github.com/mhahnFr/ADB_Connector_Mac">ADB Connector</a>.
 </p>
 
 <p align="left">
@@ -32,8 +31,6 @@ After finishing it, having made all projects using the <a href="https://www.gith
 I decided to move on with another language, the <a href="https://www.github.com/apple/swift">Swift Programming language</a>.
 I started learning the <a href="https://www.github.com/apple/swift">Swift Programming language</a> already back in 2016,
 but my first project is from 2019, the <a href="https://www.github.com/mhahnFr/ADB_Connector_Mac">ADB Connector Mac</a>.
-This is a remake of the <a href="https://www.github.com/mhahnFr/ADB_Connector">ADB Connector</a>, which was written in a
-quick and dirty way.
 </p>
 
 <p align="left">
