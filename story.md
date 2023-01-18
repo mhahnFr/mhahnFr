@@ -26,7 +26,7 @@ Some noticeable projects:
 
 #### 2022
 Since 2022 I am developing the [SecretPathway], which is a MUD client. The macOS version is written in Swift.  
-A Java version will follow soon.
+A Java version can be found [here](https://www.github.com/mhahnFr/SecretPathway).
 
 Earlier in the year, I wrote the [LeakSanitizer] and its accompanying [CallstackLibrary].  
 The [LeakSanitizer] is capable to display the memory leaks of program that is linked to it.
