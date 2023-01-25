@@ -113,7 +113,7 @@ class Breaker {
     
     private void segfault() { unsafe.putByte(Integer.MAX_VALUE, (byte) 0); }
     
-    public static void main(String[] args) throws Exception { new Test(); }
+    public static void main(String[] args) throws Exception { new Breaker(); }
 }
 ```
 
