@@ -89,7 +89,7 @@ let i: Int = Int(data[0]) & 0xff << 24
 </details>
 Discovered while writing <a href="https://github.com/mhahnFr/SecretPathway_macOS/blob/main/src/helper/Int2Data.swift#L36">this</a> piece of code.
 </details>
-<br>
+
 <details><summary><b>Crash the JVM</b> <i>(Click to expand)</i></summary>
 
 ```Java
