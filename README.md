@@ -71,18 +71,20 @@ Read the full story [here](https://www.github.com/mhahnFr/mhahnFr/blob/main/stor
 <details><summary><b>How to break Swifts type checker</b> <i>(Click to expand)</i></summary>
 
 ```Swift
-let i = data[0] & 0xff << 24
-      | data[1] & 0xff << 16
-      | data[2] & 0xff <<  8
-      | data[3] & 0xff <<  0
+let data: [UInt8] = [ 128, 128, 128, 128 ]
+
+let i: Int = data[0] & 0xff << 24
+           | data[1] & 0xff << 16
+           | data[2] & 0xff <<  8
+           | data[3] & 0xff <<  0
 ```
 <details><summary><b>Correct solution</b> <i>(Click to expand)</i></summary>
 
 ```Swift
-let i = Int(data[0]) & 0xff << 24
-      | Int(data[1]) & 0xff << 16
-      | Int(data[2]) & 0xff <<  8
-      | Int(data[3]) & 0xff <<  0
+let i: Int = Int(data[0]) & 0xff << 24
+           | Int(data[1]) & 0xff << 16
+           | Int(data[2]) & 0xff <<  8
+           | Int(data[3]) & 0xff <<  0
 ```
 </details>
 Discovered while writing <a href="https://github.com/mhahnFr/SecretPathway_macOS/blob/main/src/helper/Int2Data.swift#L36">this</a> piece of code.
