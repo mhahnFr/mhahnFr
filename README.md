@@ -89,6 +89,35 @@ let i: Int = Int(data[0]) & 0xff << 24
 </details>
 Discovered while writing <a href="https://github.com/mhahnFr/SecretPathway_macOS/blob/main/src/helper/Int2Data.swift#L36">this</a> piece of code.
 </details>
+<br>
+<details><summary><b>Crash the JVM</b> <i>(Click to expand)</i></summary>
+
+```Java
+import java.lang.reflect.Field;
+import sun.misc.Unsafe;
+
+class Breaker {
+    private final Unsafe unsafe;
+    
+    public Breaker() throws Exception {
+        final var field = Unsafe.class.getDeclaredField("theUnsafe");
+        field.setAccessible(true);
+        
+        unsafe = (Unsafe) field.get(null);
+        
+        segfault();
+        freeError();
+    }
+    
+    private void freeError() { unsafe.freeMemory(Integer.MAX_VALUE); }
+    
+    private void segfault() { unsafe.putByte(Integer.MAX_VALUE, (byte) 0); }
+    
+    public static void main(String[] args) throws Exception { new Test(); }
+}
+```
+
+</details>
 
 [Swift Programming language]: https://www.github.com/apple/swift
 [42 Heilbronn]: https://www.42heilbronn.de/learncoderepeat
