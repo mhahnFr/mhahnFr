@@ -39,8 +39,8 @@ Among others, I use these **tools**:
     <a href="https://developer.android.com/studio"            target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg"                      alt="Android Studio"  width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Linux"             target="_blank" title="Linux">
         <picture>
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"  media="(prefers-color-scheme: dark)" />
+            <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"                    media="(prefers-color-scheme: dark)" />
             <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40" />
         </picture>
     </a>
@@ -50,8 +50,8 @@ Among others, I use these **tools**:
     <a href="https://www.json.org/json-en.html"               target="_blank" title="JSON">           <img src="https://github.com/devicons/devicon/raw/develop/icons/json/json-original.svg"                                       alt="JSON"            width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Markdown"          target="_blank" title="Markdown">
         <picture>
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg"  media="(prefers-color-scheme: dark" />
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg"                       media="(prefers-color-scheme: dark" />
+            <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
         </picture>
     </a>
@@ -59,8 +59,8 @@ Among others, I use these **tools**:
     <a href="https://git-scm.com"                             target="_blank" title="Git">            <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg"                                             alt="Git"             width="40" height="40"/></a>
     <a href="https://www.github.com"                          target="_blank" title="GitHub"> 
         <picture>
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <source srcset="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"                     media="(prefers-color-scheme: dark)" />
+            <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/>
         </picture>
     </a>
