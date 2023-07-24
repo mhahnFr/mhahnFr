@@ -67,9 +67,9 @@ Among others, I use these **tools**:
     <a href="https://developer.android.com"                   target="_blank" title="Android">        <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg"                                     alt="Android"         width="40" height="40"/></a>
     <a href="https://www.gradle.org"                          target="_blank" title="Gradle"> 
         <picture>
-            <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gradle-Dark.svg"        media="(prefers-color-scheme: dark)" />
-            <source srcset="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gradle/gradle-plain.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/>
+            <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gradle-Dark.svg"       media="(prefers-color-scheme: dark)" />
+            <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/>
         </picture>
     </a>
     <a href="https://en.wikipedia.org/wiki/OpenGL"            target="_blank" title="OpenGL">         <img src="https://github.com/devicons/devicon/raw/master/icons/opengl/opengl-original.svg"                                    alt="OpenGL"          width="40" height="40"/></a>
