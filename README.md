@@ -48,6 +48,7 @@ Among others, I use these **tools**:
     <a href="https://getfedora.org"                           target="_blank" title="Fedora">         <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg"                                       alt="Fedora"          width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/"              target="_blank" title="Bash">           <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg" alt="Bash"            width="40" height="40"/></a>
     <a href="https://gcc.gnu.org/"                            target="_blank" title="GCC">            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"                               alt="GCC"             width="40" height="40"/></a>
+    <a href="https://www.llvm.org"                            target="_blank" title="LLVM">           <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/llvm/llvm-original.svg"                            alt="LLVM logo"       width="40" height="40"/></a>
     <a href="https://www.json.org/json-en.html"               target="_blank" title="JSON">           <img src="https://github.com/devicons/devicon/raw/develop/icons/json/json-original.svg"                                       alt="JSON"            width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Markdown"          target="_blank" title="Markdown">
         <picture>
