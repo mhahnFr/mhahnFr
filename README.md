@@ -23,10 +23,11 @@
 ## 👋 Hey there, I'm *mhahnFr*!
 As of now, I speak these **languages**:
 <p align="left">
-    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" title="Java">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"           alt="Java Programming language"  width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"    target="_blank" title="C">     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 alt="C Programming language"     width="40" height="40"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"                     target="_blank" title="C++">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Programming language"   width="40" height="40"/></a>
-    <a href="https://www.swift.org/about"                               target="_blank" title="Swift"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg"                      alt="Swift Programming language" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" title="Java">        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"           alt="Java Programming Language logo"        width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"    target="_blank" title="C">           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 alt="C Programming language icon"           width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/Objective-C"                 target="_blank" title="Objective-C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg"  alt="Objective-C Programming language icon" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"                     target="_blank" title="C++">         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Programming language icon"         width="40" height="40"/></a>
+    <a href="https://www.swift.org/about"                               target="_blank" title="Swift">       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg"                      alt="Swift Programming language logo"       width="40" height="40"/></a>
 </p>
 
 Among others, I use these **tools**:
