@@ -37,6 +37,7 @@ Among others, I use these **tools**:
     <a href="https://developer.apple.com/xcode/swiftui/"      target="_blank" title="SwiftUI">        <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"                                     alt="SwiftUI logo"        width="40" height="40"/></a>
     <a href="https://www.jetbrains.com/clion/"                target="_blank" title="CLion">          <img src="https://github.com/devicons/devicon/raw/develop/icons/clion/clion-original.svg"                                     alt="CLion logo"          width="40" height="40"/></a>
     <a href="https://www.jetbrains.com/idea/"                 target="_blank" title="IntelliJ">       <img src="https://github.com/devicons/devicon/raw/develop/icons/intellij/intellij-original.svg"                               alt="IntelliJ logo"       width="40" height="40"/></a>
+    <a href="https://www.eclipse.org"                         target="_blank" title="Eclipse">        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/eclipse.png"                 alt="Eclipse logo"        width="40" height="40"/></a>
     <a href="https://developer.android.com/studio"            target="_blank" title="Android Studio"> <img src="https://github.com/devicons/devicon/raw/master/icons/androidstudio/androidstudio-original.svg"                      alt="Android Studio logo" width="40" height="40"/></a>
     <a href="https://en.wikipedia.org/wiki/Linux"             target="_blank" title="Linux">
         <picture>
