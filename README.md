@@ -71,6 +71,6 @@ Everything started with Java; since then, my ever-growing portfolio has expanded
 <a href="https://en.wikipedia.org/wiki/Secure_Shell"      target="_blank" title="SSH">            <img src="https://github.com/devicons/devicon/raw/master/icons/ssh/ssh-original-wordmark.svg"                                 alt="SSH logo"            width="40" height="40"/></a>
 <a href="https://developer.apple.com"                     target="_blank" title="Apple">          <img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg"                                      alt="Apple logo"          width="40" height="40"/></a>
 
-I have studied at the coding school [42 Heilbronn] in Germany 🇩🇪.
+I have studied at the coding school [42 Heilbronn] in Germany :de:.
 
 [42 Heilbronn]: https://www.42heilbronn.de/
