@@ -35,9 +35,7 @@ Everything started with Java; since then, my ever-growing portfolio has expanded
     <picture>
         <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"         media="(prefers-color-scheme: dark)" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40" />
-    </picture>
-</a>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40" /></picture></a>
 <a href="https://getfedora.org"                  target="_blank" title="Fedora"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg"                            alt="Fedora logo" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/"     target="_blank" title="Bash">   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/bash.svg" alt="Bash icon"   width="40" height="40"/></a>
 <a href="https://gcc.gnu.org/"                   target="_blank" title="GCC">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"                               alt="GCC logo"    width="40" height="40"/></a>
@@ -47,26 +45,20 @@ Everything started with Java; since then, my ever-growing portfolio has expanded
     <picture>
         <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg"            media="(prefers-color-scheme: dark" />
         <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" />
-    </picture>
-</a>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" alt="Markdown" width="40" height="40" /></picture></a>
 <a href="https://www.docker.com" target="_blank" title="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Docker logo" width="40" height="40"/></a>
 <a href="https://git-scm.com"    target="_blank" title="Git">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"                alt="Git logo"    width="40" height="40"/></a>
 <a href="https://www.github.com" target="_blank" title="GitHub"> 
     <picture>
         <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"          media="(prefers-color-scheme: dark)" />
         <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/>
-    </picture>
-</a>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></picture></a>
 <a href="https://developer.android.com" target="_blank" title="Android"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android icon" width="40" height="40"/></a>
 <a href="https://www.gradle.org"        target="_blank" title="Gradle"> 
     <picture>
         <source srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gradle-Dark.svg"          media="(prefers-color-scheme: dark)" />
         <source srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
-    </picture>
-</a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/></picture></a>
 <a href="https://en.wikipedia.org/wiki/OpenGL"       target="_blank" title="OpenGL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"    alt="OpenGL logo" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Secure_Shell" target="_blank" title="SSH">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH logo"    width="40" height="40"/></a>
 <a href="https://developer.apple.com"                target="_blank" title="Apple">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"      alt="Apple logo"  width="40" height="40"/></a>
